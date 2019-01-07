@@ -1,0 +1,9 @@
+Package: com.shmoo.uncrypt11
+Name: uncrypt11
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: a fast, no BS tool to decrypt mach-o binaries on iOS 11 - 11.4 beta 3
+Maintainer: shmoo419
+Author: shmoo419
+Section: Tweaks
